@@ -3,8 +3,8 @@ use num::complex;
 use image::{ImageBuffer, RgbImage};
 
 fn main() {
-    let width  = 50000;
-    let height = 50000;
+    let width  = 5000;
+    let height = 5000;
     let iterations = 200;
 
     let mut img: RgbImage = ImageBuffer::new(width, height);
