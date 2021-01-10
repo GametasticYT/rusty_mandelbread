@@ -8,4 +8,8 @@ and
 ```Rust
     let height = 5000;
 ```
-for the image size
+for the image size  
+Run the programm with: 
+```
+cargo run --release
+```
