@@ -1,6 +1,7 @@
 # Rusty Mandelbread
 A mandelbrot generator written in Rust  
-change ```Rust
+change 
+```Rust
     let width  = 5000;
 ```
 and
